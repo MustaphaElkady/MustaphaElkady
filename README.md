@@ -27,7 +27,7 @@ My name is Mustafa Elkady. I am a Teaching Assistant at FCAI Hurghada University
 <a name="learning-next"></a>
 
 ## 📖  What I am currently learning / improving on
-<img src="https://img.shields.io/badge/PCA-282C34?logo=PCA&logoColor=FFCA28" alt="PCA logo" title="PCA" height="25" />=
+<img src="https://img.shields.io/badge/PCA-282C34?logo=PCA&logoColor=FFCA28" alt="PCA logo" title="PCA" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/GAN-282C34?logo=GAN&logoColor=FFCA28" alt="GAN logo" title="GAN" height="25" />
 &nbsp;
