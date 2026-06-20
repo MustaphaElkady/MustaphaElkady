@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Mostafa 👋
 
-<!--
-**MustaphaElkady/MustaphaElkady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Teaching Assistant and AI Engineer interested in Retrieval-Augmented Generation (RAG), Fine-Tuning, and Arabic NLP.
 
-Here are some ideas to get you started:
+Currently working on language model applications, evaluation pipelines, and domain-specific AI systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Interest
+
+- Retrieval-Augmented Generation (RAG)
+- Fine-Tuning Large Language Models
+- Arabic NLP
+- Question Answering Systems
+- LLM Evaluation
+
+## Current Projects
+
+- Mini-RAG
+- Islamic QA
+- NLP Learning Cycle
+
+## Tech Stack
+
+Python, PyTorch, Transformers, LangChain, FastAPI, Streamlit
+
+## Contact
+
+- LinkedIn: linkedin.com/in/mustafa-elkady-100533231
+- Email: mustaphaelkady@gmail.com
