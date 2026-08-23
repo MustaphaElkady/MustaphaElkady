@@ -54,7 +54,8 @@ A production-deployed, Arabic-first RAG platform for exploring historical books 
 - Currently extending retrieval with hybrid search, Reciprocal Rank Fusion, and reranking (Hakaa v2).
 
 **Tech:** Python, FastAPI, PostgreSQL, pgvector, Qdrant, LangChain, Docker Compose, Nginx, Prometheus, Grafana, Loki
-**GitHub:** [Hakaa](https://github.com/MustaphaElkady/mini-rag](https://github.com/mini-rag-org-01/Hakaa))
+**GitHub:** [Hakaa](https://github.com/mini-rag-org-01/Hakaa)
+
 **Live demo:** [hakaa.publicvm.com](https://hakaa.publicvm.com)
 
 ---
